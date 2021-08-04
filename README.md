@@ -1,8 +1,8 @@
 ### Oii, muito prazer! Eu sou a Júlia 👋
 
 
-- 🔭 Atualmente estou envolvida no backend de um projeto sobre LGPD
-- 🌱 Estou aprendendo Node.JS e tecnologias relativas
+- 🔭 Atualmente estou envolvida no backend de um projeto que auxilia no cumprimento da LGPD
+- 🌱 Estou aprendendo Node.JS e tecnologias relacionadas
 
  <div>
   <a href="https://github.com/juliafritegotto">
@@ -14,8 +14,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Express"height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
 
 ##
