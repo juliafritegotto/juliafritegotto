@@ -1,8 +1,9 @@
 ### Oii, muito prazer! Eu sou a Júlia 👋
 
+-  💻  Eu descobri a programação no ensino médio através do técnico em informática do IFPR, eu adorei lógica logo de cara mas como gosto de um pouco de tudo, acabei tomando outros rumos. Ainda assim voltei, entrei na Fatec Ourinhos onde sou formada em Análise e Desenvolvimento de Sistemas e agora estou aprendendo mais sobre desenvolvimento web. 
 
-- 🔭 Atualmente estou envolvida no backend de um projeto que auxilia no cumprimento da LGPD
-- 🌱 Estou aprendendo Node.JS e tecnologias relacionadas
+- 🌱 Estudando Node.JS, React JS e tecnologias relacionadas
+
 
  <div>
   <a href="https://github.com/juliafritegotto">
